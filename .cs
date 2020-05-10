@@ -6,7 +6,7 @@ namespace Program
     {
         void main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("비딩비딩");
         }
     }
 }
