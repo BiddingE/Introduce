@@ -1,7 +1,7 @@
 # 입찰업무 자동화 AI 비서 비딩이
 <pre><a href="https://bidding2.kr">https://bidding2.kr</a></pre>
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/79426912-d29ac300-7ffe-11ea-978b-efd64f1d65f8.png" align="right" width="25%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/82343730-29e0e880-9a2e-11ea-9cdd-54b3881e4721.png" align="right" width="25%">
 
 ## 입찰업무 자동화
 ### AI 비서 비딩이가 제공하는 기능입니다.
