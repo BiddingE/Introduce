@@ -13,17 +13,21 @@
 <img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427104-14c40480-7fff-11ea-95c1-366bea8354ee.png" width="25%">
 
 ## 비딩이 웹 (PC)
-### 입찰정보
+### 나의 입찰정보
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84796463-9d791400-b033-11ea-921c-a5ab7ad26af8.PNG" width="100%">
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859933-4e536b80-8c9f-11ea-9194-531beff29d38.PNG" width="100%">
+### 나의 개찰정보
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84796474-a0740480-b033-11ea-8d37-e53ae7fe48a0.PNG" width="100%">
 
-### 낙찰정보
+### 입찰공고
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84796467-9eaa4100-b033-11ea-9132-4a36d3b625fd.PNG" width="100%">
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859942-662aef80-8c9f-11ea-928d-542af83b48b9.PNG" width="100%">
+### 개찰공고
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84796471-9f42d780-b033-11ea-9fde-7c59c3cabadb.PNG" width="100%">
 
-### 낙찰순위
+### 개찰정보
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84796472-9fdb6e00-b033-11ea-8390-978b0e9ec5f1.PNG" width="100%">
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/80859943-67f4b300-8c9f-11ea-9b94-3284e7d1f06a.PNG" width="100%">
 
 ## 비딩이 웹 (Mobile)
 ### 입찰정보
