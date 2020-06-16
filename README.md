@@ -10,7 +10,7 @@
 - [x] 참가신청 자동화
 - [x] 비딩이가 작업시간을 줄여줍니다.
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427104-14c40480-7fff-11ea-95c1-366bea8354ee.png" width="25%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797692-14fb7300-b035-11ea-9546-7f76641d5d53.PNG" width="25%">
 
 ## 비딩이 웹 (PC)
 ### 나의 입찰정보
@@ -41,14 +41,15 @@
 
 ## 비딩이 프로그램
 ### 투찰관리
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797692-14fb7300-b035-11ea-9546-7f76641d5d53.PNG" width="100%">
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427515-c95e2600-7fff-11ea-9c5f-6e1a9adebd93.png" width="100%">
-
-### 참가신청 관리
-
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427611-e8f54e80-7fff-11ea-82da-c86ff4213f0f.png" width="100%">
+### 개찰결과
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797705-175dcd00-b035-11ea-8c85-c5b143891c23.PNG" width="100%">
 
 ### 공동도급 관리
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797712-188efa00-b035-11ea-8bd8-d71cad797836.PNG" width="100%">
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/79427615-eabf1200-7fff-11ea-971d-1dfe2e6acd8f.png" width="100%">
+### 참가신청 관리
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797710-17f66380-b035-11ea-9c6b-cd9e0f2ad4cb.PNG" width="100%">
+
 
