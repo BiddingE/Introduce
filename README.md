@@ -41,13 +41,13 @@
 
 ## 비딩이 프로그램
 ### 투찰관리
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797692-14fb7300-b035-11ea-9546-7f76641d5d53.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797702-16c53680-b035-11ea-8979-a6db9ebbf3c7.PNG" width="100%">
 
 ### 개찰결과
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797705-175dcd00-b035-11ea-8c85-c5b143891c23.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797712-188efa00-b035-11ea-8bd8-d71cad797836.PNG" width="100%">
 
 ### 공동도급 관리
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797712-188efa00-b035-11ea-8bd8-d71cad797836.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797705-175dcd00-b035-11ea-8c85-c5b143891c23.PNG" width="100%">
 
 ### 참가신청 관리
 <img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797710-17f66380-b035-11ea-9c6b-cd9e0f2ad4cb.PNG" width="100%">
