@@ -10,45 +10,40 @@
 - [x] 참가신청 자동화
 - [x] 비딩이가 작업시간을 줄여줍니다.
 
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797692-14fb7300-b035-11ea-9546-7f76641d5d53.PNG" width="25%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/108588124-e50e2780-739a-11eb-8554-f165f525b441.png" width="25%">
 
 ## 비딩이 웹 (PC)
+![ff](https://user-images.githubusercontent.com/8678595/108588331-ea1fa680-739b-11eb-8dba-8f9e023e28cf.PNG)
+
 ### 나의 입찰정보
-![frame_generic_dark](https://user-images.githubusercontent.com/8678595/87651783-4e3b1600-c78e-11ea-8268-35befa684cd9.png)
+![aa](https://user-images.githubusercontent.com/8678595/108588317-cd836e80-739b-11eb-83b6-426096abc37d.PNG)
 
 ### 나의 개찰정보
-![frame_generic_dark (1)](https://user-images.githubusercontent.com/8678595/87651835-6317a980-c78e-11ea-9a1f-d109b19a32f1.png)
+![gg](https://user-images.githubusercontent.com/8678595/108588348-09b6cf00-739c-11eb-9d19-6a9d943f2175.PNG)
 
 ### 입찰공고
-![frame_generic_dark (2)](https://user-images.githubusercontent.com/8678595/87651848-67dc5d80-c78e-11ea-9b36-17064e2b1738.png)
+![bb](https://user-images.githubusercontent.com/8678595/108588353-12a7a080-739c-11eb-85b6-4f18290171f2.PNG)
 
 ### 입찰정보
-![frame_generic_dark (3)](https://user-images.githubusercontent.com/8678595/87651865-6dd23e80-c78e-11ea-9baa-82640f64e56d.png)
+![dd](https://user-images.githubusercontent.com/8678595/108588370-25ba7080-739c-11eb-9f48-6d2a6279c3b2.PNG)
+
+### 개찰공고
+![cc](https://user-images.githubusercontent.com/8678595/108588359-1b987200-739c-11eb-90ef-283e94e3167a.PNG)
 
 ### 개찰정보
-![frame_generic_dark (4)](https://user-images.githubusercontent.com/8678595/87651884-76c31000-c78e-11ea-9bdd-c8de4f9d30d3.png)
-
-## 비딩이 웹 (Mobile)
-### 입찰정보
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797107-6820f600-b034-11ea-957b-f4a5603eb5a6.PNG" width="100%">
-
-### 낙찰정보
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797098-66efc900-b034-11ea-9f9f-7264b8cdc93a.PNG" width="100%">
-
-### 낙찰순위
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797110-6820f600-b034-11ea-8c3d-4efdb8e26e3e.PNG" width="100%">
+![ee](https://user-images.githubusercontent.com/8678595/108588378-34a12300-739c-11eb-9424-8abe986f1e13.PNG)
 
 ## 비딩이 프로그램
 ### 투찰관리
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797702-16c53680-b035-11ea-8979-a6db9ebbf3c7.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/108588210-4c2bdc00-739b-11eb-9de2-44ac6dfe3ad9.png" width="100%">
 
 ### 개찰결과
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797712-188efa00-b035-11ea-8bd8-d71cad797836.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/108588229-62d23300-739b-11eb-85ad-10621b57bacd.png" width="100%">
 
 ### 공동도급 관리
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797705-175dcd00-b035-11ea-8c85-c5b143891c23.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/108588240-6c5b9b00-739b-11eb-97bb-a560fa04ad3b.png" width="100%">
 
 ### 참가신청 관리
-<img alt="icon" src="https://user-images.githubusercontent.com/8678595/84797710-17f66380-b035-11ea-9c6b-cd9e0f2ad4cb.PNG" width="100%">
+<img alt="icon" src="https://user-images.githubusercontent.com/8678595/108588254-78dff380-739b-11eb-85f8-b1e9953b2b1f.png">
 
 
